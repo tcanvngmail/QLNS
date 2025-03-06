@@ -5,5 +5,7 @@ public class Hello {
     System.out.println("I'm fine!!!");
     //remote
     //demo GIT pull
+
+    int a;
   }
 }
